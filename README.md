@@ -27,7 +27,7 @@ Create a .env file in the root of the project and add your Spoonacular API key.
    ```  
 4. **Start the Application**:  
    ```bash  
-   npm start
+   npm run dev
    ```  
 
 ---
@@ -39,6 +39,15 @@ Create a .env file in the root of the project and add your Spoonacular API key.
 - **User-Friendly Interface**: Simple, intuitive UI to quickly input ingredients and find recipes.
 
 ---
+
+## Screenshots
+- Landing page:
+![Screenshot 2024-12-22 184233](https://github.com/user-attachments/assets/3558e1d7-5d6a-41ac-9045-22a3137d9c07)
+- Recipes:
+![Screenshot 2024-12-22 184248](https://github.com/user-attachments/assets/41292fe6-76ca-44aa-9bfa-375165d338d2)
+- Instructions:
+![Screenshot 2024-12-22 184303](https://github.com/user-attachments/assets/7b20ba87-ecac-46ff-86f0-904cc6954d26)
+
 
 ## Technologies Used
 
