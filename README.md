@@ -18,13 +18,14 @@ Recipe Finder helps you discover tasty recipes based on the ingredients you alre
    daytona create https://github.com/ushadevi-max/RecipeFinder
    ```  
 
-... MORE STEPS IF NEEDED ...
 3. **Set Up the Environment Variables**:
-Create a .env file in the root of the project and add your Spoonacular API key.
+
+Create a ```.env``` file in the root of the project and add your Spoonacular API key.
 	
    ```bash  
    VITE_SPOONACULAR_API_KEY=your_api_key_here
-   ```  
+   ```
+
 4. **Start the Application**:  
    ```bash  
    npm run dev
