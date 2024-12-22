@@ -1,0 +1,27 @@
+{
+  "name": "Recipe Finder - React Development",
+  "image": "mcr.microsoft.com/devcontainers/javascript:0-18",
+  "forwardPorts": [
+    5173,
+    3000
+  ],
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true,
+        "eslint.enable": true,
+        "editor.codeActionsOnSave": {
+          "source.fixAll": true
+        },
+        "editor.defaultFormatter": {
+          "javascript": "esbenp.prettier-vscode"
+        }
+      },
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "postCreateCommand": "npm install"
+}
