@@ -1,6 +1,6 @@
 {
   "name": "Recipe Finder - React Development",
-  "image": "mcr.microsoft.com/devcontainers/javascript:18",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
   "forwardPorts": [
     5173,
     3000
